@@ -1,0 +1,4 @@
+[submodule "store/public"]
+	path = store/public
+	url = https://github.com/bhedder/canyonriders.co.nz.git
+	branch = main

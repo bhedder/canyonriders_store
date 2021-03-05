@@ -1,0 +1,5 @@
+baseURL = "http://canyonriders.co.nz/"
+languageCode = "en-us"
+title = "CanyonRidersHomepage"
+theme = "dimension"
+canonifyURLS= true
