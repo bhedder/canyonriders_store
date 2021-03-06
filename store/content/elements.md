@@ -2,49 +2,14 @@
 title: Normal
 ---
 
-## Table of contents
+## Rules of engagement
 
-- [Table of contents](#table-of-contents)
-- [anchor1](#anchor1)
-- [anchor2](#anchor2)
-  - [subanch1](#subanch1)
-  - [subanch2](#subanch2)
-- [Tables](#tables)
+- [Afk as soon as possible if the enemy gets firstblood. It's just a normal.](#table-of-contents2)
+- [Win decisively, and feel zero satisfaction. Why? It's just a normal.](#anchor1)
+- [Immediately roll your new winstreak into ranked que in search of dopamine.](#anchor2)
 
-## anchor1
-
-mic check one two three four
-
-## anchor2
-space space space space space 
-
-### subanch1
-
+## Wall of Shame
 ```python
-check one two three four
+joe davola
 ```
 
-### subanch2
-
-```bash
-freestyle straight off the brain,
-got first blooded then dave leaves the game
-```
-
-### Anchor_3
-
-```bash
-# bash placeholder
-cd dir && echo $PWD;
-
-# Return
-exit 0;
-```
-
-## Tables
-
-| Pages | Elements |
-| ----- | -------- |
-| 1     | anch1    |
-| 2     | anch2     |
-| 3     | anch3   |

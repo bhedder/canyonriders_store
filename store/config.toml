@@ -1,4 +1,4 @@
-baseURL = "http://canyonriders.co.nz/"
+baseURL = "https://canyonriders.co.nz/"
 languageCode = "en-us"
 title = "CanyonRidersHomepage"
 theme = "dimension"
