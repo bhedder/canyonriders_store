@@ -11,6 +11,10 @@ title: Normal
 ## Wall of Shame
 ```python
 joe davola
-drakenem
+drakenem 
 ```
+## Recently pressed memes
+
+{{<image src="/images/headout-2.png">}}
+
 
