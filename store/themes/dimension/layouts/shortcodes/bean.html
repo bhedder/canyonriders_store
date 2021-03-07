@@ -1,0 +1,16 @@
+<html>
+<head></head>
+<body><audio id="divAudio">
+    <source src="/audio/beanjam.mp3" type="audio/mp3">
+ </audio>
+ 
+ <script>
+    var vAudio = document.getElementById("divAudio");
+    function playMusic()
+    {
+       vAudio.play();
+    }
+ </script>
+<div onmouseover="playMusic()"><img src="/images/bean.jpg"></div> 
+</body>
+</html>
