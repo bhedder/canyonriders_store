@@ -2,8 +2,10 @@
 title: beans
 ---
 ## we got beans baby
+Beanplayer 2.0
 
-<!-- {{<image src="/images/bean.jpg">}} -->
-{{<bean>}}
+{{<fatbeats>}}
+
+{{<image src="/images/bean.jpg">}}
 
 Bean-service currently non-operational. Please excuse the inconvenience.
